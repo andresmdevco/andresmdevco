@@ -89,5 +89,10 @@ I'm an **Electronic Engineer** and **Software Engineering Specialist** from Colo
 </table>
 
 
+<!-- Snake -->
+<div align="center">
+  <img src="https://github.com/andresmdevco/andresmdevco/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
 
 
