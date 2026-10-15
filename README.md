@@ -17,8 +17,7 @@ I'm an **Electronic Engineer** and **Software Engineering Specialist** from Colo
 - 🌱 I’m currently learning:
   - React & TypeScript
   - Modern Frontend Development
-  - PHP
-  - Spring Boot
+  - TailwindCSS
 - 📫 Reach out to me at: **andres2078@gmail.com**
 
 
